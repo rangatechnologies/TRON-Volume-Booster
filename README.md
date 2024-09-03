@@ -36,14 +36,15 @@ Interested in learning more or purchasing the TRON Sunswap Volume Booster? Reach
 
 Join us and take your token's performance to the next level with the TRON Sunswap Volume Booster!
 
-## 🔗 Connect with Us
-
-Stay updated with the latest news, updates, and releases:
-
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/rangatechnologies)
-[![LinkedIn](https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg)](https://www.linkedin.com/company/rangatechnologies/)
-[![Instagram](https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg)](https://www.instagram.com/rangatechnologies/)
-[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://api.whatsapp.com/message/XEABYADPSDL2D1)
+<h3 align="center">Connect with us:</h3>
+<p align="center">
+<a href="https://t.me/rangatechnologies" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="30" /></a>
+<a href="https://t.me/DexVolumeBots" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Channel" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/company/rangatechnologies/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.instagram.com/rangatechnologies" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="30" width="30" /></a>
+<a href="https://api.whatsapp.com/message/XEABYADPSDL2D1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="30" /></a>
+<a href="https://www.rangatechnologies.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png" alt="Website" height="30" width="30" /></a>
+</p>
 
 ---
 
